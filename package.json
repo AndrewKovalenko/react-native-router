@@ -1,10 +1,10 @@
 {
-  "name": "react-native-router-flux",
+  "name": "react-native-router",
   "version": "3.22.23",
-  "description": "React Native Router using Flux architecture",
+  "description": "React Native Router",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aksonov/react-native-router-flux"
+    "url": "https://github.com/AndrewKovalenko/react-native-router.git"
   },
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,6 @@
     "react-component",
     "ios",
     "android",
-    "flux",
     "router",
     "navigation"
   ],
